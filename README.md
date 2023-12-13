@@ -46,6 +46,16 @@ You can use the `OpenAiService` in various parts of your Rails application, such
 
 ### Examples
 
+#### Using in Rails Console
+
+```bash
+rails c
+```
+
+```ruby
+service = OpenAiService.new
+```
+
 - **Text Completion**:
 
   ```ruby
