@@ -10,6 +10,8 @@ This README provides guidance on how to integrate and use the `OpenAiService` cl
 
 Ensure that you have Ruby on Rails and the required gems installed in your application. Add the `openai` and `langchainrb` gems to your Gemfile and run `bundle install`.
 
+You are more than welcome to pull this repository and use it as a template for your Rails application. To do so, simply clone this repository and run `bundle install`.
+
 ```ruby
 gem 'openai'
 gem 'langchainrb'
